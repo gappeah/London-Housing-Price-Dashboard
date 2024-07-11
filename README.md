@@ -1,6 +1,6 @@
-# England Housing Visual Dashboard
+# London Housing Price Dashboard
+![Housing Project](https://github.com/gappeah/London-Housing-Price-Dashboard/assets/114095068/c03fe724-28b6-4687-8eea-ea4ae230b050)
 
-![Housing Visual Dashboard](https://github.com/gappeah/Housing-Visual-Dashboard/assets/114095068/529dfd1a-99e6-42b3-9b94-08248e38daa6)
 
 ## Overview
 
