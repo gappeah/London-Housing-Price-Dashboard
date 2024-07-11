@@ -2,9 +2,6 @@
 
 ![Housing Visual Dashboard](https://github.com/gappeah/Housing-Visual-Dashboard/assets/114095068/529dfd1a-99e6-42b3-9b94-08248e38daa6)
 
-
-# Housing Visual Dashboard
-
 ## Overview
 
 This Excel-based Housing Visual Dashboard provides a comprehensive view of average house prices across various boroughs in London from 1996 to 2013. The dashboard is designed to offer insights into housing market trends and price variations across different areas of London over time.
